@@ -3,6 +3,7 @@ Este repositorio  contiene las prácticas de la materia Aprendizaje Automático 
 
 ## Clase 1: Arrays y matrices
 ## Clase 2: Toma de datos
+## Clase 3: Matplotlib
 
 ## Librerías utilizadas
 - **pandas**: manejo y análisis de datos.  
