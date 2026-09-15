@@ -1,9 +1,8 @@
 Actividades de Aprendizaje Automatico 
-Este repositorio  contiene las prácticas de la materia Aprendizaje Automático (Tecnicatura en Ciencia de Datos e Inteligencia Artificial – Politécnico Malvinas Argentinas, 2025).
+Este repositorio  contiene las prácticas de la materia Aprendizaje Automático (Tecnicatura en Ciencia de Datos e Inteligencia Artificial – Politécnico Malvinas Argentinas, 2026)
 
-## Clase 1: Arrays y matrices [Ejercicios_Act_1](main/Ejercicios_Act_1.ipynb)
-## Clase 2: Toma de datos
-## Clase 3: Matplotlib
+## Clase 2: Toma de datos 
+
 
 ## Librerías utilizadas
 - **pandas**: manejo y análisis de datos.  
